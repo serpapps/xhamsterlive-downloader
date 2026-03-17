@@ -1,0 +1,26 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="420" rx="24" fill="#140C0A"/>
+  <rect x="24" y="24" width="1152" height="372" rx="20" fill="#251411" stroke="#EA580C"/>
+  <text x="60" y="84" fill="#FFF7ED" font-family="Arial, sans-serif" font-size="34" font-weight="700">XHamsterLive Downloader</text>
+  <text x="60" y="118" fill="#FED7AA" font-family="Arial, sans-serif" font-size="18">Live rooms, saved videos, and supported VR streams</text>
+  <rect x="60" y="160" width="300" height="180" rx="18" fill="#331C18"/>
+  <rect x="450" y="160" width="300" height="180" rx="18" fill="#331C18"/>
+  <rect x="840" y="160" width="300" height="180" rx="18" fill="#331C18"/>
+  <circle cx="112" cy="208" r="24" fill="#FB923C"/>
+  <text x="104" y="216" fill="#431407" font-family="Arial, sans-serif" font-size="18" font-weight="700">1</text>
+  <circle cx="502" cy="208" r="24" fill="#FACC15"/>
+  <text x="494" y="216" fill="#422006" font-family="Arial, sans-serif" font-size="18" font-weight="700">2</text>
+  <circle cx="892" cy="208" r="24" fill="#22C55E"/>
+  <text x="884" y="216" fill="#052E16" font-family="Arial, sans-serif" font-size="18" font-weight="700">3</text>
+  <text x="150" y="214" fill="#FFF7ED" font-family="Arial, sans-serif" font-size="26" font-weight="700">Open the room</text>
+  <text x="150" y="248" fill="#FFEDD5" font-family="Arial, sans-serif" font-size="18">Start playback so the</text>
+  <text x="150" y="274" fill="#FFEDD5" font-family="Arial, sans-serif" font-size="18">extension can detect the stream.</text>
+  <text x="540" y="214" fill="#FFF7ED" font-family="Arial, sans-serif" font-size="26" font-weight="700">Pick your quality</text>
+  <text x="540" y="248" fill="#FFEDD5" font-family="Arial, sans-serif" font-size="18">Choose the stream or</text>
+  <text x="540" y="274" fill="#FFEDD5" font-family="Arial, sans-serif" font-size="18">saved video option you want.</text>
+  <text x="930" y="214" fill="#FFF7ED" font-family="Arial, sans-serif" font-size="26" font-weight="700">Save as MP4</text>
+  <text x="930" y="248" fill="#FFEDD5" font-family="Arial, sans-serif" font-size="18">Keep the file for offline</text>
+  <text x="930" y="274" fill="#FFEDD5" font-family="Arial, sans-serif" font-size="18">playback and later access.</text>
+  <path d="M372 250H438" stroke="#EA580C" stroke-width="6" stroke-linecap="round"/>
+  <path d="M762 250H828" stroke="#EA580C" stroke-width="6" stroke-linecap="round"/>
+</svg>

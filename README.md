@@ -1,92 +1,172 @@
-# SERP XHamsterLive Downloader — Capture Live Streams and Recordings as MP4
+# XHamsterLive Downloader (Browser Extension)
 
-SERP XHamsterLive Downloader is a browser extension that lets you record live streams and download saved recordings from XHamsterLive.com. Visit any model's page, click a button, and save the stream as a standard MP4 file. It handles real-time live capture, on-demand video downloads, and VR streams — no desktop software required. Three free downloads included.
+> Record XHamsterLive streams and download saved videos as MP4 files for offline viewing.
 
-**Product page:** [https://serp.ly/xhamsterlive-video-downloader](https://serp.ly/xhamsterlive-video-downloader)<br>
-**Help center:** [https://help.serp.co/en/](https://help.serp.co/en/)<br>
-**Latest release:** [https://github.com/serpapps/xhamsterlive-video-downloader/releases/latest](https://github.com/serpapps/xhamsterlive-video-downloader/releases/latest)
+XHamsterLive Downloader is a browser extension built for users who want a cleaner way to keep XHamsterLive broadcasts and saved videos available outside the site. It detects supported video streams directly in the browser, lets you choose from available qualities, and saves finished captures as MP4 files that are easier to replay later.
 
-## Why SERP XHamsterLive Downloader?
+- Record active XHamsterLive streams while they are broadcasting
+- Download saved videos from supported model pages
+- Preserve supported VR captures with playback-friendly metadata when available
+- Choose from the stream qualities exposed on the page
+- Save MP4 files for easier offline playback and archiving
 
-Live streams on XHamsterLive cannot be saved with a right-click. The video is delivered as a continuous feed that standard tools were never designed to handle. Generic extensions fail because they cannot detect streams on this site or manage real-time capture.
+## Links
 
-This extension was built specifically for XHamsterLive. It knows where to find streams, how to capture them live, and how to produce a clean MP4 you can watch anywhere. Whether the model is broadcasting now or you want a saved recording from their profile, it works in one click.
+- 🚀 Get it here: [XHamsterLive Downloader](https://serp.ly/xhamsterlive-video-downloader)
+- 🆕 Latest release: [GitHub Releases](https://github.com/serpapps/xhamsterlive-downloader/releases/latest)
+- ❓ Help center: [SERP Help](https://help.serp.co/en/)
+- 🐛 Report bugs: [GitHub Issues](https://github.com/serpapps/xhamsterlive-downloader/issues)
+- 💡 Request features: [Feature Requests](https://github.com/serpapps/xhamsterlive-downloader/issues)
 
-## Key Features
+## Preview
 
-- **Real-time live stream recording** — Press Start to capture a live broadcast, press Stop when done. Saves as MP4.
-- **Saved recording downloads** — Download previously recorded videos from any model's profile page.
-- **VR stream support** — VR broadcasts are detected automatically with proper formatting details preserved in the filename.
-- **In-page download button** — A download button appears right on the video player for fast access.
-- **Right-click menu** — Right-click any stream page and choose "Download XHamsterLive Stream."
-- **Quality selection** — Pick from all available resolutions, highest quality listed first.
-- **Progress tracking** — Built-in download manager shows segment counts, elapsed time, and speed.
-- **Organized saving** — Videos auto-save to an "XHamsterLive" subfolder in your Downloads directory.
+![XHamsterLive Downloader workflow preview](assets/workflow-preview.svg)
+
+## Table of Contents
+
+- [Why XHamsterLive Downloader](#why-xhamsterlive-downloader)
+- [Features](#features)
+- [How It Works](#how-it-works)
+- [Step-by-Step Tutorial: How to Download Videos from XHamsterLive](#step-by-step-tutorial-how-to-download-videos-from-xhamsterlive)
+- [Supported Formats](#supported-formats)
+- [Who It's For](#who-its-for)
+- [Common Use Cases](#common-use-cases)
+- [Troubleshooting](#troubleshooting)
+- [Trial & Access](#trial--access)
+- [Installation Instructions](#installation-instructions)
+- [FAQ](#faq)
+- [Notes](#notes)
+- [About XHamsterLive](#about-xhamsterlive)
+
+## Why XHamsterLive Downloader
+
+XHamsterLive is built for live browser viewing, not for straightforward offline saving. Live rooms end, saved videos are not always offered with a simple native download flow, and generic downloader extensions often miss protected or short-lived stream URLs.
+
+XHamsterLive Downloader is built specifically for that workflow. It focuses on supported XHamsterLive pages, detects the active media in your current browser session, and gives you a simpler way to keep accessible content locally without switching to desktop capture tools or manual stream inspection.
+
+## Features
+
+- Live stream recording for active XHamsterLive rooms
+- Saved video downloads from supported model pages
+- VR stream support when compatible media is exposed
+- Quality selection for available resolutions and stream variants
+- In-page controls on supported video pages
+- Popup workflow for starting and managing captures
+- Right-click access for a faster recording flow
+- MP4 output for easier playback and transfer
+- Automatic saving into a dedicated XHAMSTERLIVE folder
+- Cross-browser support for Chrome, Edge, Brave, Opera, Firefox, Whale, and Yandex
 
 ## How It Works
 
-1. **Install** — Add SERP XHamsterLive Downloader to your browser from the releases page.
-2. **Visit** — Go to XHamsterLive.com and open any model's page.
-3. **Click** — Use the player download button, the extension popup, or the right-click menu.
-4. **Save** — For live streams, press Start/Stop. For recordings, pick quality and hit Download. Saved as MP4.
+1. Install the extension from the latest release.
+2. Open XHamsterLive and go to a live room or saved video page.
+3. Start playback so the extension can detect the stream.
+4. Open the popup or use the on-page controls.
+5. Choose the quality or stream option you want.
+6. Record the live session or download the saved video.
+7. Save the final MP4 file locally.
+
+## Step-by-Step Tutorial: How to Download Videos from XHamsterLive
+
+1. Install XHamsterLive Downloader from the latest GitHub release.
+2. Open XHamsterLive and sign in if the page requires account access.
+3. Visit the live room, saved video page, or supported VR page you want to keep.
+4. Let the player load fully and press play.
+5. Click the extension button or the on-page control.
+6. Review the quality options shown by the extension.
+7. For live rooms, start recording and stop it when the session is finished.
+8. For saved videos, click download and wait for the MP4 export to complete.
+9. Open the finished file from your Downloads folder.
 
 ## Supported Formats
 
-All downloads are saved as **MP4** — the most widely compatible video format, playable on virtually every device and media player. Multiple quality levels are available depending on the broadcaster's settings, with the best quality shown first.
+- Input: XHamsterLive streams
+- Input: XHamsterLive saved videos
+- Input: Supported XHamsterLive VR streams
+- Output: MP4
+
+Saved files use MP4 so they are easier to replay on standard media players, transfer between devices, or archive for later access.
 
 ## Who It's For
 
-- Viewers who want to save live broadcasts for offline watching
-- Users who prefer downloading saved recordings over repeated streaming
-- VR enthusiasts who need broadcasts saved with proper VR formatting
-- Anyone who wants a simple browser-based solution with no extra software
+- XHamsterLive viewers who want to keep live rooms before they end
+- Users who want offline access to saved videos they can already watch
+- VR viewers who want to preserve supported immersive content
+- People archiving content they are permitted to keep
+- Anyone who wants a browser-based workflow instead of manual capture software
 
 ## Common Use Cases
 
-- Record a live broadcast and watch it later at your convenience
-- Download saved recordings from a model's video library
-- Capture VR streams with correct metadata for VR headset playback
-- Grab a stream quickly via the right-click menu or in-page player button
+- Record a XHamsterLive broadcast to watch later
+- Download a saved video from a model page
+- Keep local copies of content before it disappears from easy access
+- Save supported VR content for later playback on compatible devices
+- Download the best quality exposed by the page
+
+## Troubleshooting
+
+**The extension is not detecting the stream**  
+Press play first and wait a few seconds so the stream has time to initialize.
+
+**The page control is missing**  
+Open the extension popup directly. Some supported pages work better through the popup UI.
+
+**Only one quality option is listed**  
+That usually means the page is exposing a single playable stream variant.
+
+**The recording stopped too early**  
+Check whether the live session ended or your internet connection dropped during capture.
+
+**The page requires account or paid access**  
+The extension only works on media you can already open and play in your active browser session.
 
 ## Trial & Access
 
-Sign in with your email to activate **3 free trial downloads** — no credit card required. After your trial, upgrade to a license for unlimited downloads. Works on **Chrome, Edge, Brave, Opera, Whale, Yandex, and Firefox**.
+- Includes **3 free downloads** so you can test the workflow first
+- Email sign-in uses secure one-time password verification
+- No credit card required for the trial
+- Unlimited downloads are available with a paid license
+
+Start here: [https://serp.ly/xhamsterlive-video-downloader](https://serp.ly/xhamsterlive-video-downloader)
+
+## Installation Instructions
+
+1. Open the latest release page:
+   [https://github.com/serpapps/xhamsterlive-downloader/releases/latest](https://github.com/serpapps/xhamsterlive-downloader/releases/latest)
+2. Download the extension build for your browser.
+3. Install the extension.
+4. Open XHamsterLive and navigate to a live room or saved video.
+5. Use the extension controls to start recording or downloading.
 
 ## FAQ
 
-**How do I capture a live stream?**
-Open a model's page while they are live, click the extension or player button, choose quality, and press Start. Press Stop when finished. Saves as MP4.
+**Can I record XHamsterLive streams?**  
+Yes. Active XHamsterLive rooms can be recorded while they are broadcasting.
 
-**How do I download a saved recording?**
-Go to a model's recorded video page, open the extension, select quality, and press Download.
+**Can I download saved videos too?**  
+Yes. The extension supports saved XHamsterLive videos on supported pages.
 
-**Does this work with VR streams?**
-Yes. VR content is detected automatically and VR details are included in the filename. A VR badge appears in the popup.
+**Does it support VR streams?**  
+Yes, when XHamsterLive exposes compatible VR-capable media for that page.
 
-**What quality options are available?**
-Every resolution the broadcaster provides. Highest quality is listed first.
+**What file format do downloads use?**  
+Videos are saved as MP4 files.
 
-**Where are downloads saved?**
-To an "XHamsterLive" subfolder inside your browser's default Downloads folder.
+**Where are videos saved?**  
+They are saved to your default Downloads location, typically inside a XHAMSTERLIVE subfolder.
 
-**How many free downloads do I get?**
-Three. Sign in with your email to activate them. No credit card needed.
+**Do I need extra software?**  
+No. Everything runs through the browser extension.
 
-**What browsers are supported?**
-Chrome, Edge, Brave, Opera, Whale, Yandex, and Firefox.
+## Notes
 
-**What if the model is offline?**
-Live capture only works during public broadcasts. Saved recordings can be downloaded anytime.
+- Only download content you own or have explicit permission to save
+- An internet connection is required for live capture and downloads
+- Live recording only works while the creator is actively streaming
+- Some pages may require account access, paid access, or membership
+- VR support depends on the media exposed by XHamsterLive for that stream
 
-**Is my data safe?**
-Yes. All processing happens in your browser. Authentication uses a secure one-time code — no passwords stored.
+## About XHamsterLive
 
-## Notes (Important)
-
-- This extension is intended for downloading content you own or have permission to download. Users are responsible for ensuring they have the right to save any content.
-- Live capture requires the model to be actively streaming in a public broadcast.
-- Quality and availability depend on the broadcaster's settings and the platform.
-
-## Get It
-
-**[Download SERP XHamsterLive Downloader](https://serp.cc/VDM-xhamsterlive-video-downloader)**
+XHamsterLive combines live rooms with saved video content, which makes offline access more awkward than on ordinary video sites. Stream protection, live-only sessions, and page-specific playback behavior all add friction for users who want a local copy. XHamsterLive Downloader simplifies that workflow inside the browser for users who already have legitimate access to the content.

@@ -141,22 +141,22 @@ Start here: [https://serp.ly/xhamsterlive-video-downloader](https://serp.ly/xham
 
 ## FAQ
 
-**Can I record XHamsterLive streams?**  
+**Can I record XHamsterLive streams**  
 Yes. Active XHamsterLive rooms can be recorded while they are broadcasting.
 
-**Can I download saved videos too?**  
+**Can I download saved videos too**  
 Yes. The extension supports saved XHamsterLive videos on supported pages.
 
-**Does it support VR streams?**  
+**Does it support VR streams**  
 Yes, when XHamsterLive exposes compatible VR-capable media for that page.
 
-**What file format do downloads use?**  
+**What file format do downloads use**  
 Videos are saved as MP4 files.
 
-**Where are videos saved?**  
+**Where are videos saved**  
 They are saved to your default Downloads location, typically inside a XHAMSTERLIVE subfolder.
 
-**Do I need extra software?**  
+**Do I need extra software**  
 No. Everything runs through the browser extension.
 
 ## Notes

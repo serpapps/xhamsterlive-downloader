@@ -12,15 +12,15 @@ XHamsterLive Downloader is a browser extension built for users who want a cleane
 
 ## Links
 
-- 🚀 Get it here: [XHamsterLive Downloader](https://serp.ly/xhamsterlive-video-downloader)
-- 🆕 Latest release: [GitHub Releases](https://github.com/serpapps/xhamsterlive-downloader/releases/latest)
-- ❓ Help center: [SERP Help](https://help.serp.co/en/)
-- 🐛 Report bugs: [GitHub Issues](https://github.com/serpapps/xhamsterlive-downloader/issues)
-- 💡 Request features: [Feature Requests](https://github.com/serpapps/xhamsterlive-downloader/issues)
+- ðŸš€ Get it here: [XHamsterLive Downloader](https://serp.ly/xhamsterlive-video-downloader)
+- ðŸ†• Latest release: [GitHub Releases](https://github.com/serpapps/xhamsterlive-downloader/releases/latest)
+- â“ Help center: [SERP Help](https://help.serp.co/en/)
+- ðŸ› Report bugs: [GitHub Issues](https://github.com/serpapps/xhamsterlive-downloader/issues)
+- ðŸ’¡ Request features: [Feature Requests](https://github.com/serpapps/xhamsterlive-downloader/issues)
 
 ## Preview
 
-![XHamsterLive Downloader workflow preview](assets/workflow-preview.svg)
+![XHamsterLive Downloader workflow preview](assets/workflow-preview.webp)
 
 ## Table of Contents
 
